@@ -1,0 +1,5 @@
+name: Limit-Bypass
+version: 1.0-Snapshot
+main: id.raznar.limitbypass
+authors: [xAbhista]
+description: A Lightweight Player limit bypass plugin (for admins)
